@@ -1,3 +1,5 @@
-# html5-snake
+# Arduino Arcade
 
-a simple snake game written using canvas
+Control a snake game using your arduino
+
+Snake game written by Github user spudowiar
